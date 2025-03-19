@@ -50,3 +50,11 @@ Check out all the stuff I made on [my portofolio!](ryn-ad.vercel.app)
 
 > **My Motto:**
 > *Nunquam non Paratus*
+
+###
+
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/ryn-ad/ryn-ad/output/snake.svg" alt="Snake animation" />
+
+###
