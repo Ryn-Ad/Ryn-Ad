@@ -5,7 +5,7 @@ I'm Reyhan Aditya, A passionate and dedicated professional from Indonesia with 3
 
 Check out all the stuff I made on [my portofolio!](ryn-ad.vercel.app)
 
-## :briefcase: SKILLS
+# :briefcase: SKILLS
 ### Game Development :video_game:
 ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white) ![Unreal Engine](https://img.shields.io/badge/unrealengine-%23313131.svg?style=for-the-badge&logo=unrealengine&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c#&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Meta](https://img.shields.io/badge/Virtual_Reality-%230467DF.svg?style=for-the-badge&logo=Meta&logoColor=white) ![Play Store](https://img.shields.io/badge/Augmented_Reality-c80a2d?style=for-the-badge&logo=google-play&logoColor=white) 
 ### Web Development :globe_with_meridians:
@@ -24,7 +24,7 @@ Check out all the stuff I made on [my portofolio!](ryn-ad.vercel.app)
 
 </details>
 
-## :bust_in_silhouette: SOCIALS
+# :bust_in_silhouette: SOCIALS
 <a href="https://www.linkedin.com/in/reyhan-aditya/">
 <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=flat&logo=linkedin&logoColor=white">
 </a>
@@ -32,7 +32,7 @@ Check out all the stuff I made on [my portofolio!](ryn-ad.vercel.app)
 <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=flat&logo=Instagram&logoColor=white">
 </a>
 
-## :star: PROJECTS & PORTOFOLIO
+# :star: PROJECTS & PORTOFOLIO
 <a href="https://ryn-works.itch.io/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=ITCH.IO&logo=Itch.io&label=&color=FF0B34&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="itch io"  /></a>
 <a href="https://sketchfab.com/reyn.ad" target="_blank">
